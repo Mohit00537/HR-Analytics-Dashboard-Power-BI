@@ -1,1 +1,1 @@
-# HR-Analytics-Dashboard-Power-BI
+![Dashboard](Powerbi Dashboard.png)
